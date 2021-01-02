@@ -1,5 +1,4 @@
-# project1-cx87974
-project1-cx87974 created by GitHub Classroom
+Linux Shell Program created by GitHub Classroom
 
 Author: Jaineel Upadhyay
 
