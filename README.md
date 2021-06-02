@@ -1,4 +1,4 @@
-Linux Shell Program created by GitHub Classroom
+Linux Shell Program
 
 Author: Jaineel Upadhyay
 
